@@ -8,7 +8,7 @@
 #SBATCH -e ./utk.e
 #SBATCH -o ./utk.o
 
-cd ~/BZAN_583_code
+cd ~/github/HPC-example
 pwd
 
 ## module names can vary on different platforms
